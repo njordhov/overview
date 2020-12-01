@@ -35,5 +35,5 @@ You can try a [Hello World tutorial](https://github.com/clarity-lang/overview/bl
 
 Below is a partial list of Clarity tools:
 
-* [Clarity.tools](https://clarity.tools/) a Clarity REPL
+* [Clarity.tools](https://clarity.tools/) Clarity IDE 
 * [ClarityScript](https://github.com/clarity-script) a JavaScript compatible language compilable to Clarity
